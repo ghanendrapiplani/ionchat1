@@ -1,11 +1,8 @@
 # Ionic 3 Chat
 
-## Episode 1
+git push origin1 master !!
 
-### Sign-In & Tabs
+1. To add option to click image using camera.
+2. To display already saved images to firebase in profiles page.
+3. Find about the shared prefernces or similar options in ionic to manage user session.
 
-The code for the first part of the Ionic 3 chat app. For further details - http://tphangout.com/?p=593
-
-To watch the video - https://www.youtube.com/watch?v=BdXaFK9ryq4
-
-"# ionchat1" 
