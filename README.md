@@ -8,3 +8,4 @@ The code for the first part of the Ionic 3 chat app. For further details - http:
 
 To watch the video - https://www.youtube.com/watch?v=BdXaFK9ryq4
 
+"# ionchat1" 
